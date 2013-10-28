@@ -17,7 +17,7 @@
 #*/runtime/*
 #*/tests/_log/*
 #*/www/assets/*
-#*/www/files/*
+*/www/files/*
 
 # composer
 vendor/*
