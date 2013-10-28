@@ -14,10 +14,10 @@
 */config/*-local.php
 
 # runtime directories
-*/runtime/*
-*/tests/_log/*
-*/www/assets/*
-*/www/files/*
+#*/runtime/*
+#*/tests/_log/*
+#*/www/assets/*
+#*/www/files/*
 
 # composer
 vendor/*
